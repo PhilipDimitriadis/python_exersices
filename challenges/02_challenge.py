@@ -1,4 +1,4 @@
-str = "Factory"
+str = "Factory!"
 
 for i in range(len(str)):
   char = str[i] * (i + 1)
